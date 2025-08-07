@@ -1,0 +1,1 @@
+This app was developed using python. The fuctionality of the app is to suggest possible solutions for problems that could arise within a team, since this was only the demo app. The team was pre defined with 3 roles however as further developments we can take the roles as a user input to maximize the user relavancy
